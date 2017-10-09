@@ -1,9 +1,11 @@
+#creating a tuple object
 mytuple = (1,2,3,4,5)
-print(len(mytuple))
 
+#printing it out
+print(len(mytuple))
 print(mytuple)
 
-
+#converting to/from list
 mylist = list(mytuple)
 print(mylist)
 
